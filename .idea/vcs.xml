@@ -2,10 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/DiceRoller" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/MyAndroidProjects/AndroidStudio_pre-work" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/TipTime" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/seeds2021/seeds" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/simpleTodo2" vcs="Git" />
   </component>
 </project>
